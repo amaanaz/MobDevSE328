@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amaan_Midterm_1_2022</string>
+    <string name="btnAct">Go to Main</string>
+    <string name="title_activity_act3">You are in Activity 3</string>
+    <string name="title_activity_act2">You are in Activity 2</string>
+
+
+</resources>
