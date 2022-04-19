@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zubairi-mid2</string>
+
+    <string-array name="cities">
+        <item>Riyadh</item>
+        <item>Mumbai</item>
+        <item>London</item>
+    </string-array>
+</resources>
