@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Amaan-200226</string>
+    <string name="studentId">ID </string>
+    <string name="studentName">Name </string>
+    <string name="studentSurname">Surname </string>
+    <string name="studentFathers_name">Father’s name </string>
+    <string name="studentNational_ID">National ID </string>
+    <string name="studentDate_of_birth">Date of Birth </string>
+    <string name="studentGender">Gender </string>
+    <string name="GenderM">M</string>
+    <string name="GenderF">F</string>
+    <string name="dateBTN">Pick Date</string>
+    <string name="dateHint">Enter Date</string>
+    <string name="insertBtn">INSERT</string>
+    <string name="updateBTN">UPDATE</string>
+    <string name="delBtn">DELETE</string>
+    <string name="go2StdListBtn">Firebase List</string>
+    <string name="go2SQLBtn">SQLite</string>
+    <string name="go2WeatherBtn">Check The Weather</string>
+    <string name="go2SQListBtn">SQL List</string>
+    <string name="go2FirebaseBtn">Firebase</string>
+    <string name="weatherTv"></string>
+    <string name="city_search">Search for Another City</string>
+    <string name="getWeatherBtn">Search</string>
+    <string name="syncDataBtn">Sync</string>
+    <string name="viewAllBtn">VIEW ALL</string>
+    <string name="searchByIdBtn">Search with ID</string>
+</resources>

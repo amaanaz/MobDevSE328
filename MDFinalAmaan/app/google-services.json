@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84263029651",
+    "firebase_url": "https://mobdevfinalamaan-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobdevfinalamaan",
+    "storage_bucket": "mobdevfinalamaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84263029651:android:516b42bc362baf65e6b666",
+        "android_client_info": {
+          "package_name": "com.example.mobdevfinal_amaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84263029651-42ae2t07gapsf6rcuga0s3mmjbh3oh13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzanrjW0tHS4ftv9gSeiq_KHeXB4SESrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84263029651-42ae2t07gapsf6rcuga0s3mmjbh3oh13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
